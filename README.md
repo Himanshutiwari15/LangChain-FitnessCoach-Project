@@ -10,6 +10,9 @@ Welcome to the Fitness Chatbot project! This is an interactive, web-based chatbo
 - **Stunning UI**: Full-screen, responsive design with modern aesthetics, using a fitness-inspired color palette (#393449 dark purple and #F7F7F0 off-white, accented with green #4CAF50 and blue #2196F3).
 - **Easy Accessibility**: Runs locally via a Flask server, accessible through any web browser on desktops, tablets, or mobiles.
 
+![Screenshot (65)](https://github.com/user-attachments/assets/67f82ab6-034b-46b6-834f-b6e379bf4ece)
+
+
 ## Getting Started
 
 Follow these steps to set up and run the Fitness Chatbot on your local machine.
